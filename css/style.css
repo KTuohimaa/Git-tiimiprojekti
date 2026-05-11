@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-/* Kehoelementin yleiset tyylit */
+/* Body-elementin yleiset tyylit */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f6fb;
@@ -91,7 +91,6 @@ main {
     gap: 24px;
 }
 
-/* Jäsenkorttien yleinen ulkoasu */
 .member-card {
     background-color: white;
     padding: 24px;
@@ -131,7 +130,6 @@ main {
     background-color: #1f2744;
 }
 
-/* Profiilisivun kortin perusasettelu */
 .profile {
     display: grid;
     grid-template-columns: 260px 1fr;
